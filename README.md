@@ -1,0 +1,1 @@
+# golang_structs_right_way
